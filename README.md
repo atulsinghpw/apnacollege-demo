@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git Repositiory.
 <br>
-Authotr-Atul singh
+Authotr-Atul(Akshita gupta)
